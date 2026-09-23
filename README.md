@@ -96,10 +96,6 @@
 </p>
 
 <p align="center">
-  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Akshay6441&theme=tokyo-night&hide_border=true" />
-</p>
-
-<p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Akshay6441&theme=tokyonight&no-frame=true&row=1&column=6" />
 </p>
 
