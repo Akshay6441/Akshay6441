@@ -12,9 +12,13 @@
   <a href="mailto:maddulaakshay007@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Akshay6441&style=for-the-badge&color=6C63FF" alt="profile views" />
+</p>
+
 <br/>
 
-### 🚀 About Me
+## 🚀 About Me
 
 - 🎓 B.Tech in Computer Science Engineering, Lovely Professional University (2022–2026)
 - 💼 Looking for opportunities in **Software Engineering** and **Data Science**
@@ -22,72 +26,65 @@
 - 📍 Based in Rajahmundry, Andhra Pradesh, India
 - 🌱 Currently sharpening skills in applied Python and Gen AI / agentic systems
 
-<br/>
+## 🔭 Currently Building
 
-### 🧩 Featured Projects
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-**[🛒 ShopVibe](https://github.com/Akshay6441/ShopVibe)**
-Full-stack e-commerce platform — FastAPI + React + PostgreSQL, with an AI agent admin dashboard, Google OAuth, Salesforce sync, and CI/CD with a coverage gate.
-`FastAPI` `React` `PostgreSQL` `Docker`
-
-</td>
-<td width="50%" valign="top">
-
-**[🩺 MediBook](https://github.com/Akshay6441/MediBook)**
-MERN doctor appointment booking app with Patient/Doctor/Admin roles, JWT auth, and Razorpay payments.
-`MongoDB` `Express` `React` `Node.js`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**[🕵️ Fraud Detection System](https://github.com/Akshay6441/transaction-fraud-detection-system)**
-XGBoost model, 0.86 PR-AUC on 284K+ transactions, deployed via AWS Lambda + API Gateway with a Flutter dashboard.
-`Python` `XGBoost` `Kafka` `AWS Lambda`
-
-</td>
-<td width="50%" valign="top">
-
-**🍔 FoodFinder**
-Android app (Kotlin) using the Overpass API for nearby food discovery, with auth, favorites, and chat.
-`Kotlin` `Android` `Overpass API`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**📰 Indiagovnews**
-100% Kotlin Android app, MVVM architecture, Dependency Injection, Retrofit.
-`Kotlin` `MVVM` `Retrofit`
-
-</td>
-<td width="50%" valign="top">
-
-**😴 Sleep Apnea Detection**
-CNN-LSTM and Random Forest models for signal-based apnea detection, served via Flask/TensorFlow.
-`TensorFlow` `CNN-LSTM` `Flask`
-
-</td>
-</tr>
-</table>
+> **[ShopVibe](https://github.com/Akshay6441/ShopVibe)** — a full-stack e-commerce platform with an AI agent admin dashboard (FastAPI · React · PostgreSQL · Docker). My main portfolio piece — CI/CD, monitoring, and fraud detection all wired in.
 
 <br/>
 
-### 🛠️ Tech Stack
+## 🌟 Featured Projects
 
-<p align="center">
+### Full-Stack Platforms
+
+| Project | Description | Tech |
+|---|---|---|
+| [**ShopVibe**](https://github.com/Akshay6441/ShopVibe) | E-commerce platform with an AI tool-calling admin agent, Google OAuth, Salesforce sync, CI/CD with a coverage gate, Prometheus/Grafana monitoring | FastAPI, React, PostgreSQL, Docker |
+| [**MediBook**](https://github.com/Akshay6441/MediBook) | Doctor appointment booking app with Patient/Doctor/Admin roles, JWT auth, Razorpay payments, Cloudinary media | MongoDB, Express, React, Node.js |
+
+### Machine Learning
+
+| Project | Description | Tech |
+|---|---|---|
+| [**Transaction Fraud Detection**](https://github.com/Akshay6441/transaction-fraud-detection-system) | XGBoost model scoring 0.86 PR-AUC on 284K+ transactions, deployed via AWS Lambda + API Gateway with a Flutter dashboard | Python, XGBoost, Kafka, AWS Lambda |
+| **Sleep Apnea Detection** | CNN-LSTM and Random Forest models for signal-based apnea detection | TensorFlow, CNN-LSTM, Flask |
+
+### Android
+
+| Project | Description | Tech |
+|---|---|---|
+| **FoodFinder** | Nearby food discovery app using the Overpass API, with auth, favorites, and chat | Kotlin, Android |
+| **Indiagovnews** | News app built 100% in Kotlin with MVVM architecture and Dependency Injection | Kotlin, MVVM, Retrofit |
+
+<br/>
+
+## 🛠️ Tech Stack
+
+<p align="left">
   <img src="https://skillicons.dev/icons?i=kotlin,java,python,react,nodejs,fastapi,flutter,postgres,mongodb,docker,git,androidstudio,tailwind" />
 </p>
 
+| Category | Skills |
+|---|---|
+| **Languages** | Kotlin, Java, Python, JavaScript |
+| **Backend** | FastAPI, Node.js/Express, SQLAlchemy, Pydantic |
+| **Frontend** | React, Zustand, Tailwind CSS |
+| **Mobile** | Android (Kotlin/Java, MVVM), Flutter |
+| **Data & ML** | XGBoost, TensorFlow (CNN-LSTM), Pandas, NumPy |
+| **Databases** | PostgreSQL, MongoDB |
+| **DevOps** | Docker, GitHub Actions, Prometheus, Grafana |
+
 <br/>
 
-### 📊 GitHub Stats
+## 🎓 Education & Certifications
+
+- **B.Tech, Computer Science Engineering** — Lovely Professional University, Phagwara, Punjab (2022–2026)
+- Mastering Data Structures and Algorithms using C and C++ — Coursera (Nov 2023)
+- Python Data Mastery: From Fundamentals to Machine Learning — Summer Training (Jul 2024)
+- Python Software, Application, Games, Automation Development — Udemy (Feb 2025)
+
+<br/>
+
+## 📊 GitHub Stats
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=Akshay6441&show_icons=true&theme=tokyonight&hide_border=true" />
@@ -99,12 +96,16 @@ CNN-LSTM and Random Forest models for signal-based apnea detection, served via F
 </p>
 
 <p align="center">
+  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Akshay6441&theme=tokyo-night&hide_border=true" />
+</p>
+
+<p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Akshay6441&theme=tokyonight&no-frame=true&row=1&column=6" />
 </p>
 
 <br/>
 
-### 📫 Reach Me
+## 📫 Let's Connect
 
 <p align="center">
   <a href="mailto:maddulaakshay007@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white" /></a>
@@ -112,8 +113,6 @@ CNN-LSTM and Random Forest models for signal-based apnea detection, served via F
   <a href="https://portfolio-henna-five-62.vercel.app"><img src="https://img.shields.io/badge/Portfolio-6C63FF?style=flat&logo=vercel&logoColor=white" /></a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Akshay6441&style=flat&color=6C63FF" alt="profile views" />
-</p>
+<p align="center"><i>Thanks for stopping by — feel free to explore my repos and reach out!</i></p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=100&section=footer" width="100%"/>
