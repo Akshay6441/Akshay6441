@@ -1,53 +1,114 @@
-# Maddula Akshay
+<img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=200&section=header&text=Hi%20There,%20I'm%20Akshay%20👋&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
 
-**Software Engineer | Full-Stack | Android | ML**
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Software+Engineer+%7C+Full-Stack+Developer;Android+%26+Kotlin+Enthusiast;Building+AI-powered+apps;Always+shipping+something+new" alt="Typing SVG" />
+  </a>
+</p>
 
-B.Tech in Computer Science Engineering, Lovely Professional University (2022 to 2026)
-Based in Rajahmundry, Andhra Pradesh. Open to Software Engineering and Data Science roles across India.
+<p align="center">
+  <a href="https://portfolio-henna-five-62.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-View-6C63FF?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/maddula-akshay" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:maddulaakshay007@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://portfolio-henna-five-62.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/maddula-akshay)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:maddulaakshay007@gmail.com)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Akshay6441&style=for-the-badge&color=6C63FF" alt="profile views" />
+</p>
 
----
+<br/>
 
-## Featured projects
+## 🚀 About Me
 
-| Project | What it is | Stack |
-| :--- | :--- | :--- |
-| [**ShopVibe**](https://github.com/Akshay6441/ShopVibe) | Full-stack e-commerce platform with Google OAuth, Salesforce sync, an AI admin agent, Prometheus/Grafana monitoring and a CI coverage gate (83 tests) | FastAPI, React, PostgreSQL, Docker |
-| [**Transaction Fraud Detection**](https://github.com/Akshay6441/transaction-fraud-detection-system) | Event-driven, two-service fraud scoring system. 0.86 PR-AUC on 284K+ transactions | Java, Spring Boot, Kafka, XGBoost, AWS |
-| [**MediBook**](https://github.com/Akshay6441/MediBook) | Doctor appointment booking with Patient, Doctor and Admin logins, Razorpay payments and JWT auth | MongoDB, Express, React, Node |
-| [**GoCart**](https://github.com/Akshay6441/go-cart) | E-commerce app with product browsing, cart, Stripe checkout and role-based admin | React, Node, Express, MongoDB |
-| **GameForge** | Gaming platform with accounts, leaderboard, achievements and playable Canvas games (Neon Dodge, Snake, 2048) | Flask, SQLite, vanilla JS |
-| [**Sleep Apnea Detection**](https://github.com/Akshay6441/Sleep-Apnea-detection) | Sleep apnea classification using deep learning and classical ML | CNN-LSTM, Random Forest, TensorFlow, Flask |
-| [**FoodFinder**](https://github.com/Akshay6441/FoodFinder) | Android app for finding nearby food places, with authentication, favourites and chat | Kotlin, Android, Overpass API |
-| [**Indiagovnews**](https://github.com/Akshay6441/Indiagovnews) | Android news app, 100% Kotlin | Kotlin, MVVM, Dependency Injection, Retrofit |
+- 🎓 B.Tech in Computer Science Engineering, Lovely Professional University (2022–2026)
+- 💼 Looking for opportunities in **Software Engineering** and **Data Science**
+- 🛠️ Comfortable across the stack — backend APIs, React frontends, Android apps, and ML pipelines
+- 📍 Based in Rajahmundry, Andhra Pradesh, India
+- 🌱 Currently sharpening skills in applied Python and Gen AI / agentic systems
 
----
+## 🔭 Currently Building
 
-## Tech stack
+> **[ShopVibe](https://github.com/Akshay6441/ShopVibe)** — a full-stack e-commerce platform with an AI agent admin dashboard (FastAPI · React · PostgreSQL · Docker). My main portfolio piece — CI/CD, monitoring, and fraud detection all wired in.
 
-| | |
-| :--- | :--- |
-| **Languages** | Java, Python, Kotlin, C++, JavaScript |
-| **Backend** | Spring Boot, FastAPI, Flask, Node.js, Express, Kafka |
-| **Frontend and mobile** | React, Tailwind CSS, Android, Flutter |
-| **Data and ML** | TensorFlow, Keras, scikit-learn, XGBoost, Pandas, NumPy |
-| **Cloud, data and DevOps** | AWS (Lambda, API Gateway), Docker, PostgreSQL, MySQL, MongoDB, GitHub Actions |
+<br/>
 
----
+## 🌟 Featured Projects
 
-## Education and certifications
+### Full-Stack Platforms
 
-- **B.Tech in Computer Science Engineering**, Lovely Professional University, Punjab (2022 to 2026)
-- **Mastering Data Structures and Algorithms using C and C++**, Coursera (Nov 2023)
-- **Generative AI Primer**, Coursera (Feb 2024)
-- **Python Data Mastery: From Fundamentals to Machine Learning**, summer training (Jul 2024)
-- **Python Software, Application, Games, Automation Development**, Udemy (Feb 2025)
+| Project | Description | Tech |
+|---|---|---|
+| [**ShopVibe**](https://github.com/Akshay6441/ShopVibe) | E-commerce platform with an AI tool-calling admin agent, Google OAuth, Salesforce sync, CI/CD with a coverage gate, Prometheus/Grafana monitoring | FastAPI, React, PostgreSQL, Docker |
+| [**MediBook**](https://github.com/Akshay6441/MediBook) | Doctor appointment booking app with Patient/Doctor/Admin roles, JWT auth, Razorpay payments, Cloudinary media | MongoDB, Express, React, Node.js |
 
----
+### Machine Learning
 
-## Contact
+| Project | Description | Tech |
+|---|---|---|
+| [**Transaction Fraud Detection**](https://github.com/Akshay6441/transaction-fraud-detection-system) | XGBoost model scoring 0.86 PR-AUC on 284K+ transactions, deployed via AWS Lambda + API Gateway with a Flutter dashboard | Python, XGBoost, Kafka, AWS Lambda |
+| **Sleep Apnea Detection** | CNN-LSTM and Random Forest models for signal-based apnea detection | TensorFlow, CNN-LSTM, Flask |
 
-[LinkedIn](https://linkedin.com/in/maddula-akshay) | [Portfolio](https://portfolio-henna-five-62.vercel.app) | [maddulaakshay007@gmail.com](mailto:maddulaakshay007@gmail.com)
+### Android
+
+| Project | Description | Tech |
+|---|---|---|
+| **FoodFinder** | Nearby food discovery app using the Overpass API, with auth, favorites, and chat | Kotlin, Android |
+| **Indiagovnews** | News app built 100% in Kotlin with MVVM architecture and Dependency Injection | Kotlin, MVVM, Retrofit |
+
+<br/>
+
+## 🛠️ Tech Stack
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=kotlin,java,python,react,nodejs,fastapi,flutter,postgres,mongodb,docker,git,androidstudio,tailwind" />
+</p>
+
+| Category | Skills |
+|---|---|
+| **Languages** | Kotlin, Java, Python, JavaScript |
+| **Backend** | FastAPI, Node.js/Express, SQLAlchemy, Pydantic |
+| **Frontend** | React, Zustand, Tailwind CSS |
+| **Mobile** | Android (Kotlin/Java, MVVM), Flutter |
+| **Data & ML** | XGBoost, TensorFlow (CNN-LSTM), Pandas, NumPy |
+| **Databases** | PostgreSQL, MongoDB |
+| **DevOps** | Docker, GitHub Actions, Prometheus, Grafana |
+
+<br/>
+
+## 🎓 Education & Certifications
+
+- **B.Tech, Computer Science Engineering** — Lovely Professional University, Phagwara, Punjab (2022–2026)
+- Mastering Data Structures and Algorithms using C and C++ — Coursera (Nov 2023)
+- Python Data Mastery: From Fundamentals to Machine Learning — Summer Training (Jul 2024)
+- Python Software, Application, Games, Automation Development — Udemy (Feb 2025)
+
+<br/>
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Akshay6441&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akshay6441&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Akshay6441&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Akshay6441&theme=tokyonight&no-frame=true&row=1&column=6" />
+</p>
+
+<br/>
+
+## 📫 Let's Connect
+
+<p align="center">
+  <a href="mailto:maddulaakshay007@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/maddula-akshay"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
+  <a href="https://portfolio-henna-five-62.vercel.app"><img src="https://img.shields.io/badge/Portfolio-6C63FF?style=flat&logo=vercel&logoColor=white" /></a>
+</p>
+
+<p align="center"><i>Thanks for stopping by — feel free to explore my repos and reach out!</i></p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=100&section=footer" width="100%"/>
