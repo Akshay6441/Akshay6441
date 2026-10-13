@@ -1,1 +1,53 @@
-```markdown # Akshay (@Akshay6441) — Software & Systems Engineer > **B.Tech CSE (2022–2026) · Lovely Professional University** > 📍 Rajahmundry, AP, India · Open for SWE / Backend / Systems roles [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/maddula-akshay) [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://portfolio-henna-five-62.vercel.app) [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:maddulaakshay007@gmail.com) [![GitHub Repositories](https://img.shields.io/badge/Repositories-36%20Public-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Akshay6441?tab=repositories) --- ```bash akshay@station:~$ sys_spec --user Akshay6441 [✓] FOCUS: High-throughput backend APIs, native Android, distributed data pipelines [✓] RUNTIME: FastAPI (Async) · Kotlin (Android Jetpack) · PostgreSQL · Docker · Redis [✓] CI/CD: GitHub Actions · 85%+ PyTest Unit Coverage · Prometheus Telemetry [✓] STATUS: Actively interviewing for Software Engineering & Systems roles (2025/2026) ``` --- ### 🏛️ [ 01 ] Flagship Engineering Systems <table> <tr> <td width="55%" valign="top"> <h4><a href="https://github.com/Akshay6441/ShopVibe">ShopVibe</a> <code>v2.4.0</code></h4> <p><b>Full-Scale E-Commerce Pipeline & Autonomous Admin Tooling</b></p> <ul> <li>Engineered modular transactional backend with <b>FastAPI</b> & <b>PostgreSQL</b> with full ACID isolation.</li> <li>Implemented <b>Google RS256 OAuth</b> authentication and bi-directional asynchronous <b>Salesforce</b> inventory sync workers.</li> <li>Containerized multi-stage <b>Docker</b> deployments with <b>Prometheus/Grafana</b> metrics and an 85%+ PyTest CI gate.</li> </ul> <p><code>FastAPI</code> · <code>React</code> · <code>PostgreSQL</code> · <code>Redis</code> · <code>Docker</code> · <code>Prometheus</code></p> </td> <td width="45%" valign="top"> <h4><a href="https://github.com/Akshay6441/FoodFinder">FoodFinder</a></h4> <p><b>Hyperlocal Venue Discovery Mobile Application</b></p> <ul> <li>Clean MVVM architecture in <b>100% Kotlin</b> with offline-first <b>Room / SQLite</b> caching.</li> <li>Direct integration with <b>OpenStreetMap Overpass API</b> for low-latency bounding-box geo-queries.</li> <li>Reactive state management powered by Kotlin <b>Coroutines & Flow</b>.</li> </ul> <p><code>Android SDK</code> · <code>Kotlin</code> · <code>Room DB</code> · <code>Overpass API</code> · <code>Jetpack</code></p> </td> </tr> </table> --- ### 🔬 [ 02 ] Specialized Systems, ML & Mobile Repositories | Repository | Focus Area | Core Architecture & Spec | Key Metric / Tech | | :--- | :--- | :--- | :--- | | **[transaction-fraud-detection-system](https://github.com/Akshay6441/transaction-fraud-detection-system)** | ML / Streaming | High-throughput fraud classification stream via Kafka into serverless scoring handlers. | **0.86 PR-AUC** · XGBoost, AWS Lambda | | **[FinGuard-AI](https://github.com/Akshay6441/FinGuard-AI)** | Financial AI | Predictive anomaly monitor and algorithmic solvency scoring engine. | Python, Scikit-Learn, FastAPI | | **[Indiagovnews](https://github.com/Akshay6441/Indiagovnews)** | Native Android | Clean MVVM real-time news feed with dependency injection and lifecycle observers. | **100% Kotlin**, Dagger/Hilt, Retrofit | | **[endee](https://github.com/Akshay6441/endee)** | Core Systems | Low-overhead vector indexing and approximate nearest-neighbor query engine. | C++, Vector SIMD, Embeddings | | **[MediBook](https://github.com/Akshay6441/MediBook)** | Full-Stack | Multi-role healthcare booking portal with Razorpay webhook verification and JWT RBAC. | MongoDB, Express, React, Node | | **[Sleep-Apnea-detection](https://github.com/Akshay6441/Sleep-Apnea-detection)** | Deep Learning | 1D CNN feature extractors combined with recurrent LSTM memory cells for bio-signals. | TensorFlow, CNN-LSTM, Flask | | **[python-docker-example](https://github.com/Akshay6441/python-docker-example)** | DevOps | Production-hardened multi-stage Docker configurations with minimal attack surfaces. | Docker Compose, CI/CD Gates | --- ### ⚙️ [ 03 ] Verified Technical Stack <div align="center"> ``` LANGUAGES Kotlin · Python · Java · C / C++ · TypeScript / JavaScript BACKEND FastAPI · PostgreSQL (SQLAlchemy) · Redis · Node.js/Express · MongoDB MOBILE/CLIENT Android SDK (Room, Coroutines, Flow, Dagger/Hilt) · React 18 · Tailwind CSS DATA & ML XGBoost · TensorFlow (CNN-LSTM) · Scikit-Learn · Pandas · NumPy DEVOPS/INFRA Docker (Multi-Stage) · GitHub Actions (CI/CD) · PyTest · Prometheus · AWS Lambda ``` </div> --- ### 📊 [ 04 ] Activity & Contribution Telemetry <div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Akshay6441&show_icons=true&theme=tokyonight&hide_border=true&title_color=ffffff&text_color=9ca3af&icon_color=10b981&bg_color=0d0e11" height="150" alt="Akshay's GitHub Stats" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akshay6441&layout=compact&theme=tokyonight&hide_border=true&title_color=ffffff&text_color=9ca3af&bg_color=0d0e11" height="150" alt="Top Languages" /> </div> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Akshay6441&theme=tokyonight&hide_border=true&stroke=000000&background=0d0e11&ring=10b981&fire=10b981&currStreakLabel=10b981" alt="GitHub Streak" /> </p> --- ### 🎓 [ 05 ] Education & Certifications - **B.Tech in Computer Science and Engineering** — Lovely Professional University, Punjab *(2022 – 2026)* - **Data Structures and Algorithms with C and C++** — *Coursera Specialization (Nov 2023)* - **Python Data Mastery & Applied Machine Learning** — *Summer Training Certified (Jul 2024)* - **Python Software & Automation Development** — *Udemy Specialization (Feb 2025)* --- ### 📬 [ 06 ] Dispatch Ready / Contact I am actively interviewing for **Software Engineer (Backend / Distributed Systems)** and **Android Engineer** opportunities. - 💼 **LinkedIn:** [linkedin.com/in/maddula-akshay](https://linkedin.com/in/maddula-akshay) - 🌐 **Portfolio:** [portfolio-henna-five-62.vercel.app](https://portfolio-henna-five-62.vercel.app) - 📧 **Direct Email:** [maddulaakshay007@gmail.com](mailto:maddulaakshay007@gmail.com) ```
+# Maddula Akshay
+
+**Software Engineer | Full-Stack | Android | ML**
+
+B.Tech in Computer Science Engineering, Lovely Professional University (2022 to 2026)
+Based in Rajahmundry, Andhra Pradesh. Open to Software Engineering and Data Science roles across India.
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://portfolio-henna-five-62.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/maddula-akshay)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:maddulaakshay007@gmail.com)
+
+---
+
+## Featured projects
+
+| Project | What it is | Stack |
+| :--- | :--- | :--- |
+| [**ShopVibe**](https://github.com/Akshay6441/ShopVibe) | Full-stack e-commerce platform with Google OAuth, Salesforce sync, an AI admin agent, Prometheus/Grafana monitoring and a CI coverage gate (83 tests) | FastAPI, React, PostgreSQL, Docker |
+| [**Transaction Fraud Detection**](https://github.com/Akshay6441/transaction-fraud-detection-system) | Event-driven, two-service fraud scoring system. 0.86 PR-AUC on 284K+ transactions | Java, Spring Boot, Kafka, XGBoost, AWS |
+| [**MediBook**](https://github.com/Akshay6441/MediBook) | Doctor appointment booking with Patient, Doctor and Admin logins, Razorpay payments and JWT auth | MongoDB, Express, React, Node |
+| [**GoCart**](https://github.com/Akshay6441/go-cart) | E-commerce app with product browsing, cart, Stripe checkout and role-based admin | React, Node, Express, MongoDB |
+| **GameForge** | Gaming platform with accounts, leaderboard, achievements and playable Canvas games (Neon Dodge, Snake, 2048) | Flask, SQLite, vanilla JS |
+| [**Sleep Apnea Detection**](https://github.com/Akshay6441/Sleep-Apnea-detection) | Sleep apnea classification using deep learning and classical ML | CNN-LSTM, Random Forest, TensorFlow, Flask |
+| [**FoodFinder**](https://github.com/Akshay6441/FoodFinder) | Android app for finding nearby food places, with authentication, favourites and chat | Kotlin, Android, Overpass API |
+| [**Indiagovnews**](https://github.com/Akshay6441/Indiagovnews) | Android news app, 100% Kotlin | Kotlin, MVVM, Dependency Injection, Retrofit |
+
+---
+
+## Tech stack
+
+| | |
+| :--- | :--- |
+| **Languages** | Java, Python, Kotlin, C++, JavaScript |
+| **Backend** | Spring Boot, FastAPI, Flask, Node.js, Express, Kafka |
+| **Frontend and mobile** | React, Tailwind CSS, Android, Flutter |
+| **Data and ML** | TensorFlow, Keras, scikit-learn, XGBoost, Pandas, NumPy |
+| **Cloud, data and DevOps** | AWS (Lambda, API Gateway), Docker, PostgreSQL, MySQL, MongoDB, GitHub Actions |
+
+---
+
+## Education and certifications
+
+- **B.Tech in Computer Science Engineering**, Lovely Professional University, Punjab (2022 to 2026)
+- **Mastering Data Structures and Algorithms using C and C++**, Coursera (Nov 2023)
+- **Generative AI Primer**, Coursera (Feb 2024)
+- **Python Data Mastery: From Fundamentals to Machine Learning**, summer training (Jul 2024)
+- **Python Software, Application, Games, Automation Development**, Udemy (Feb 2025)
+
+---
+
+## Contact
+
+[LinkedIn](https://linkedin.com/in/maddula-akshay) | [Portfolio](https://portfolio-henna-five-62.vercel.app) | [maddulaakshay007@gmail.com](mailto:maddulaakshay007@gmail.com)
